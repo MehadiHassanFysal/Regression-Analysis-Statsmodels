@@ -4,19 +4,19 @@ This repository contains Python-based regression analyses with an emphasis on **
 
 ### Contents
 
-#### 1️⃣ Simple Linear Regression
+#### 1. Simple Linear Regression
 
 Implements simple linear regression to examine relationships between variables, focusing on coefficient interpretation, statistical significance, and model assumptions.
 
-#### 2️⃣ Multiple Linear Regression
+#### 2. Multiple Linear Regression
 
 Extends regression analysis to multiple predictors, emphasizing inference, multicollinearity considerations, and goodness-of-fit metrics.
 
-#### 3️⃣ Regularized Regression (Lasso & Ridge)
+#### 3. Regularized Regression (Lasso & Ridge)
 
 Applies Lasso and Ridge regression to illustrate regularization, bias–variance tradeoffs, and coefficient shrinkage in high-dimensional settings.
 
-#### 4️⃣ Logistic Regression
+#### 4. Logistic Regression
 
 Uses binary logistic regression for classification-style outcomes, with emphasis on interpretation of coefficients and odds ratios rather than model tuning.
 
